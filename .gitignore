@@ -1,7 +1,8 @@
 assets/*
 !assets/.gitignore
-
 protected/runtime/*
 !protected/runtime/.gitignore
+protected/data/*.db
 
+error_log
 nbproject
